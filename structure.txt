@@ -1,0 +1,13 @@
+هيكل المشروع
+------------
+marketplace-site/
+├─ index.html
+├─ README.txt
+├─ structure.txt
+├─ css/
+│  └─ style.css
+├─ js/
+│  └─ app.js
+└─ assets/
+
+مهم: لا توجد حاجة إلى npm في هذه النسخة.
